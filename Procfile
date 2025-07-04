@@ -1,1 +1,1 @@
-skyline: python3 Deepseeek.py
+skyline: python3 Deepseek.py
